@@ -1,3 +1,5 @@
+#i did this project to try and expand my knowledge and work with python more. -landn
+
 import random
 from words import word_list
 
